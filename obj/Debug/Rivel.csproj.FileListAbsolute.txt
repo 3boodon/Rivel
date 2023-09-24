@@ -1,0 +1,10 @@
+D:\College Docs\Assignments\برمجة هدفية\زهرة\Rivel\obj\Debug\Rivel.csproj.AssemblyReference.cache
+D:\College Docs\Assignments\برمجة هدفية\زهرة\Rivel\obj\Debug\Rivel.csproj.CoreCompileInputs.cache
+D:\College Docs\Assignments\برمجة هدفية\زهرة\Rivel\bin\Debug\Rivel.exe.config
+D:\College Docs\Assignments\برمجة هدفية\زهرة\Rivel\bin\Debug\Rivel.exe
+D:\College Docs\Assignments\برمجة هدفية\زهرة\Rivel\bin\Debug\Rivel.pdb
+D:\College Docs\Assignments\برمجة هدفية\زهرة\Rivel\bin\Debug\Newtonsoft.Json.dll
+D:\College Docs\Assignments\برمجة هدفية\زهرة\Rivel\bin\Debug\Newtonsoft.Json.xml
+D:\College Docs\Assignments\برمجة هدفية\زهرة\Rivel\obj\Debug\Rivel.csproj.CopyComplete
+D:\College Docs\Assignments\برمجة هدفية\زهرة\Rivel\obj\Debug\Rivel.exe
+D:\College Docs\Assignments\برمجة هدفية\زهرة\Rivel\obj\Debug\Rivel.pdb
