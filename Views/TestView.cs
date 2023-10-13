@@ -1,32 +1,22 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.IO;
 using Rivel.Controllers;
+using Rivel.Framework;
 using Rivel.Models;
+using Rivel.Services;
 
-namespace Rivel.Views {
-    internal class TestView {
-        public static void RunTests() {
-            CarController carController = new CarController();
+namespace Rivel.Views
+{
+    public class TestView
+    {
+        public static void RunTests()
+        {
 
-            // Test Create
-            Car newCar = new Car { Id = 1, Make = "Toyota", Model = "Camry" };
-            carController.Create(newCar);
-
-            // Test Read
-            List<Car> cars = carController.Read();
-            Console.WriteLine("Cars Count: " + cars.Count);  // Should be 1
-
-            // Test Update
-            newCar.Model = "Corolla";
-            carController.Update(1, newCar);
-
-            // Test Delete
-            //carController.Delete(1);
-
-            // Final Read to confirm deletion
-            cars = carController.Read();
-            Console.WriteLine("Cars Count after delete: " + cars.Count);  // Should be 0
             Console.ReadKey();
         }
+
     }
+
+
 }

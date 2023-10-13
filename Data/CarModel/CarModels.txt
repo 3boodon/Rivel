@@ -1,1 +1,0 @@
-[{"CarModelID":1,"CarBrandID":1,"ModelName":"Model X","DateCreated":"2023-09-24T02:39:20.872788+03:00","LastUpdated":"2023-09-24T02:39:20.9517872+03:00"}]
